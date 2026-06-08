@@ -1,0 +1,1 @@
+select * from wxc.prd_inst;
